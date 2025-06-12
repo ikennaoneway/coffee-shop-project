@@ -1,8 +1,14 @@
 # Analysis of Coffee Shop Trans in 3 location
 
+
+
 ![coffee_image](coffee_image.jpg)
 
-## Introduction/Project Overview
+## Table of Content
+
+- [Project Overview](#Project-Overview)
+
+## Project Overview
 The primary objective of this project is to analyze the transaction data from three coffee shops located in Lower Manhattan Astoria and Hell's Kitchen. By examining this data, we aim to identify trends in customer purchases, popular products, pricing strategies, and the overall sales performance of each store. This analysis will provide valuable insights into customer preferences and help inform future business strategies to enhance customer satisfaction and drive sales growth.
 ## Data source
 Coffee Shop Sales raw file.xlsx: This dataset used for this analysis contains detailed transaction records from a coffee shop, including transaction IDs, dates, times, quantities, store locations, product IDs, unit prices, product categories, product types, and product details. The data covers transactions from multiple store locations from January to June 2023. The dataset was provided as an excel file by the company
