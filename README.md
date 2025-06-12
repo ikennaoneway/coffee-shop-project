@@ -7,6 +7,7 @@
 ## Table of Content
 
 - [Project Overview](#Project-Overview)
+- [Data Anaysis](#Data-Anaysis)
 
 ## Project Overview
 The primary objective of this project is to analyze the transaction data from three coffee shops located in Lower Manhattan Astoria and Hell's Kitchen. By examining this data, we aim to identify trends in customer purchases, popular products, pricing strategies, and the overall sales performance of each store. This analysis will provide valuable insights into customer preferences and help inform future business strategies to enhance customer satisfaction and drive sales growth.
