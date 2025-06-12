@@ -31,9 +31,9 @@ Data Cleaning/Transformation
 6.	Added a column for Hour using 			=HOUR(C2)
 
 •	Cleaned Data Sheet: Create a new sheet labeled "Cleaned Data" where the cleaned data is stored.
-## Data Anaysis
+## Data Anaysis [Table of Content](#Table-of-Content)
 
-### top [Table of Content](#Table-of-Content)
+ 
 
 1. Total Revenue per Month
 •	Rows: Month
