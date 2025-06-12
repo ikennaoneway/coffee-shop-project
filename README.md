@@ -46,6 +46,7 @@ Data Cleaning/Transformation
 •	Rows: product_type
 •	Values: Count of Transaction_id, Sum of Revenue
 •	This analysis will show the count of transactions and Sum of Revenue per product_type sorted descending by transactio
+
 [Coffee_Shop_Sales_dashboard.xlsx](https://github.com/user-attachments/files/20709621/Coffee_Shop_Sales_dashboard.xlsx)
 
 ![dashboard_Screenshot](https://github.com/user-attachments/assets/7029d5c8-29a0-452f-a6a0-32cbb7d6cab5)
