@@ -33,6 +33,8 @@ Data Cleaning/Transformation
 •	Cleaned Data Sheet: Create a new sheet labeled "Cleaned Data" where the cleaned data is stored.
 ## Data Anaysis
 
+### top [Table of Content](#Table-of-Content)
+
 1. Total Revenue per Month
 •	Rows: Month
 •	Values: Sum of unit_price * transaction_qty
